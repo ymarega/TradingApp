@@ -1,1 +1,2 @@
 # TradingApp
+Application de trading
